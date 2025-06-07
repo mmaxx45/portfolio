@@ -1,6 +1,7 @@
 # Developer Portfolio
 ![Java](https://img.shields.io/badge/Java-21-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
+
 Modulare Webplattform zur Darstellung eigener Java-/Spring-Projekte. Enthält eine dynamische Landingpage mit Projektkacheln, Routing zu Einzelseiten und Anwendungen wie einem URL-Shortener.
 
 ## Features
