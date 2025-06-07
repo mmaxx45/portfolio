@@ -1,5 +1,7 @@
 # Developer Portfolio
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f6bb60082669496aa38fb41089ae20c0)](https://app.codacy.com/gh/mmaxx45/portfolio?utm_source=github.com&utm_medium=referral&utm_content=mmaxx45/portfolio&utm_campaign=Badge_Grade)
+
 ![Java](https://img.shields.io/badge/Java-21-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
 
