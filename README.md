@@ -14,8 +14,7 @@ Modulare Webplattform zur Darstellung eigener Java-/Spring-Projekte. Enthält ei
 - Java 21
 - Spring Boot
 - Tailwind CSS (Landingpage)
-- SQLite / PostgreSQL
-- GitHub Actions (optional)
+- MySQL
 
 ## Quickstart
 
